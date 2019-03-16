@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Alagan/Scene/MainMenu.unity
+    guid: 53474c38a6360b24e9c6b537c63ff86a
+  - enabled: 1
+    path: Assets/Alagan/Scene/Game.unity
+    guid: 31baaadecf98841439e008b9ae43b9cc
+  - enabled: 1
+    path: Assets/Alagan/Scene/TuttorialNew.unity
+    guid: f81ea8f529d25e54b85a4926b63d507c
+  m_configObjects: {}

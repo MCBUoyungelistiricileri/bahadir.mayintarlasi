@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 809214d9f10e8624bb21371ac689caa2, type: 3}
+  m_Name: Jungle
+  m_EditorClassIdentifier: 
+  themaName: jungle
+  store:
+    free: 1
+    key: 
+    StoreID: thema_jungle
+    _have: 1
+    _use: 1
+  cellSprite:
+  - {fileID: 21300000, guid: a92a4d75ba28aa04e84dad1ac0801f1e, type: 3}
+  - {fileID: 21300000, guid: 0bb95cf93b923c54ba7c540338cd8632, type: 3}
+  - {fileID: 21300000, guid: 1d392a922fc187f4bb57b663b2119cd1, type: 3}
+  - {fileID: 21300000, guid: 3f99f12e6c0502f4680a004314bc644a, type: 3}
+  - {fileID: 21300000, guid: 008453a53d90d844f86ec06a1694eaed, type: 3}
+  - {fileID: 21300000, guid: dc1dafe136dd26e4d85b02b0d343df93, type: 3}
+  - {fileID: 21300000, guid: 49022529c23d621488ab0b95d5502931, type: 3}
+  - {fileID: 21300000, guid: f0da3101b91cf9e4c935f3c1d7e1cc04, type: 3}
+  - {fileID: 21300000, guid: f0da3101b91cf9e4c935f3c1d7e1cc04, type: 3}
+  normal: {fileID: 21300000, guid: de60d2c8a64198d4da49ff9bec861b7f, type: 3}
+  mine: {fileID: 21300000, guid: c3c4d569b3d870e47ac86d0eb0928167, type: 3}
+  flag: {fileID: 21300000, guid: 92241b7a86a116443a1040261e2259a8, type: 3}
+  backgroundColor: {r: 0.4039216, g: 0.22352943, b: 0.19607845, a: 1}
+  panelImage: {fileID: 21300000, guid: af06ea8f0dc9e0847b4df123f6675587, type: 3}
+  panelColor: {r: 0.64705884, g: 0.3529412, b: 0.3019608, a: 1}
+  textColor: {r: 0, g: 0, b: 0, a: 0}
+  backbutton: {fileID: 21300000, guid: 82ab7a56b1e186a4da4d64ac755c94a3, type: 3}
+  areaColor: {r: 0.56078434, g: 0.32941177, b: 0.3019608, a: 1}
+  iconColor: {r: 0.2784314, g: 0.18039216, b: 0.16078432, a: 1}
+  flagAreaActive: {r: 0.8470589, g: 0.74509805, b: 0.11764707, a: 1}
+  interfaceSettings:
+    panelColor: {r: 0.4039216, g: 0.22352943, b: 0.19607845, a: 1}
+    backgroundColor: {r: 0.33962262, g: 0.19641045, b: 0.17461729, a: 1}
+    textColor: {r: 1, g: 1, b: 1, a: 1}
+    mantarLogo: {fileID: 21300000, guid: 33d51b3e958b1d14191d995ecd00f1d8, type: 3}

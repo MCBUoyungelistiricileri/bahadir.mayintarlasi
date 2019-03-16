@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 809214d9f10e8624bb21371ac689caa2, type: 3}
+  m_Name: Space
+  m_EditorClassIdentifier: 
+  themaName: SPACE
+  store:
+    free: 1
+    key: 
+    StoreID: thema_space
+    _have: 1
+    _use: 1
+  cellSprite:
+  - {fileID: 21300000, guid: 52667b70c7047a14d95734307df5048a, type: 3}
+  - {fileID: 21300000, guid: dee5ac9ca72ae9f45a2c401c36d6b89c, type: 3}
+  - {fileID: 21300000, guid: d5b430e1d3ee7f946894419f3ede792e, type: 3}
+  - {fileID: 21300000, guid: 46f81e10b19c546408e8bfe5ba54ef66, type: 3}
+  - {fileID: 21300000, guid: 2fb80478d5f6ff94aa2c040cc195b7b2, type: 3}
+  - {fileID: 21300000, guid: a217262445c99b24a850c5f80fbdc610, type: 3}
+  - {fileID: 21300000, guid: d81ede652fb3c1b4f9582da672395360, type: 3}
+  - {fileID: 21300000, guid: dd375f9125628f04cb1fe6d66620cc7d, type: 3}
+  - {fileID: 21300000, guid: dd375f9125628f04cb1fe6d66620cc7d, type: 3}
+  normal: {fileID: 21300000, guid: 22deaf7cf4e586e4783f0cff609576f4, type: 3}
+  mine: {fileID: 21300000, guid: c2d6216eab737b04bb3ad666c48d7806, type: 3}
+  flag: {fileID: 21300000, guid: ddf878ffb8f0b2d408ceb2f80f3c729f, type: 3}
+  backgroundColor: {r: 0.11764706, g: 0.13725491, b: 0.1764706, a: 1}
+  panelImage: {fileID: 0}
+  panelColor: {r: 0.17254902, g: 0.2, b: 0.25882354, a: 1}
+  textColor: {r: 0.9056604, g: 0.9056604, b: 0.9056604, a: 1}
+  backbutton: {fileID: 0}
+  areaColor: {r: 0.20784315, g: 0.24313727, b: 0.30980393, a: 1}
+  iconColor: {r: 0.10980393, g: 0.12941177, b: 0.16470589, a: 1}
+  flagAreaActive: {r: 0.2901961, g: 0.54901963, b: 1, a: 1}
+  interfaceSettings:
+    panelColor: {r: 0.17254902, g: 0.20000002, b: 0.25882354, a: 1}
+    backgroundColor: {r: 0.11764707, g: 0.13725491, b: 0.1764706, a: 1}
+    textColor: {r: 0.93725497, g: 0.93725497, b: 0.93725497, a: 1}
+    mantarLogo: {fileID: 21300000, guid: 33d51b3e958b1d14191d995ecd00f1d8, type: 3}
